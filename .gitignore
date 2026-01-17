@@ -68,3 +68,9 @@ logs/
 # Temporary files
 tmp/
 temp/
+
+# Tutorial/Documentation files (local only)
+*_TUTORIAL.md
+*_GUIDE.md
+QUICK_START*.md
+PUSH_TO_GITHUB.md
